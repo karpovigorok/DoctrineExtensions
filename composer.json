@@ -2,6 +2,7 @@
     "name": "karpovigorok/doctrine-extensions",
     "description": "Extensions allow you to use doctrine2 in Codeigniter",
     "type": "library",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Igor Karpov",
