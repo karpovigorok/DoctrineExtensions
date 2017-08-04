@@ -1,6 +1,7 @@
 {
     "name": "karpovigorok/doctrine-extensions",
     "description": "Extensions allow you to use doctrine2 in Codeigniter",
+    "minimum-stability":"dev",
     "keywords": [
         "doctrine2",
         "tableprefix",
