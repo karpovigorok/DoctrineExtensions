@@ -1,3 +1,4 @@
+<?php
 namespace DoctrineExtensions;
 use \Doctrine\ORM\Event\LoadClassMetadataEventArgs;
 
